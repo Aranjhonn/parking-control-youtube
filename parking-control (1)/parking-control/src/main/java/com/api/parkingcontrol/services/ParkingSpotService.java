@@ -6,7 +6,6 @@ import org.springframework.stereotype.Service;
 
 import javax.transaction.Transactional;
 
-//Criar uma interface ParkingSpotService e depois implementar essa interface
 @Service
 public class ParkingSpotService {
 
